@@ -1,4 +1,6 @@
-# FSR
+# FSR [facial sentimintal recognition]
+
+#
 
 ## GIT Guidline 
 * before doing a particular task create an Issue with description and assign u the collabroaters needed for the task
